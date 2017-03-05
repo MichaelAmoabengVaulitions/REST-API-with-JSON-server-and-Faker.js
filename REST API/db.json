@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Oksana",
+      "last_name": "Krasikova",
+      "email": "oksana.krasikova@hotmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Michael",
+      "last_name": "Amoabeng",
+      "email": "michael.amoabeng2015@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Mark",
+      "last_name": "Twain",
+      "email": "mark.twain2015@gmail.com"
+    },
+    {
+      "{\n    \n    \"first_name\": \"Harry\",\n    \"last_name\": \"Green\",\n    \"email\": \"harry.green@hotmail.com\"\n  }": "",
+      "id": 4
+    }
+  ]
+}
